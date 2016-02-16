@@ -1,0 +1,19 @@
+{
+  "name": "today",
+  "version": "0.0.1",
+  "description": "A little command line utility to track daily progress",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taxigy/today.git"
+  },
+  "author": "Rishat Muhametshin <rishatmuhametshin@gmail.com> (http://specular.space/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taxigy/today/issues"
+  },
+  "homepage": "https://github.com/taxigy/today#readme"
+}
