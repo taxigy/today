@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/taxigy/today/issues"
   },
-  "homepage": "https://github.com/taxigy/today#readme"
+  "homepage": "https://github.com/taxigy/today#readme",
+  "dependencies": {
+    "lodash": "^4.4.0",
+    "minimist": "^1.2.0",
+    "remove-markdown": "^0.1.0"
+  }
 }
